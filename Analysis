@@ -1,1 +1,12 @@
-summary
+1. After creating the code analysis from the dataset, it was apparent that the percent of students passing reading and their average reading score is higher than 
+the percent of students passing math and their average math score, which shows that students are doing better in reading than math. The difference in variables between
+the type of schools can relay with more observations. When comparing the highest performing schools and the lowest performing schools, Charter schools excel overall compared to District schools. 
+
+2. The school summary was able to show that some of the district schools have more students than 8 charter schools, with a total of 15 schools and 39,170. 
+Student budgets, spending ranges, as well as total students for each school can dramatically affect the performance per student and the school's overall passing rate.
+For example, a higher overall passing rate of 90.37 percent in the lower spending ranges (<$585).
+
+3. The data clearly shows that Charter schools are scoring better than District schools across all data used to chowcase the obvious trends of school performance
+(average, percent, and overall). But it has also shown the data changing with each trend effecting each other. The increase in budget per student and population, etc. 
+effecting the average scores between the school types. Schools can have better scores and a smaller student population while other schools have lower scores and larger 
+student population, if we base off of this factor alone schools with larger student population can also negatively influence overall passing rate and percentage of schools.
